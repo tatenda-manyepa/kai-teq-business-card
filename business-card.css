@@ -28,3 +28,6 @@ h1{font-size:32px;font-weight:800;letter-spacing:-1.3px}.role{color:#49658b}.int
 .quick-actions a:hover{background:#e5eeff;border-color:#8fb5ff}
 .save-contact{background:linear-gradient(105deg,#0078ff 0%,#225bff 48%,#6538f0 100%);box-shadow:0 7px 18px #315fe827}
 .website-link{color:#1457c5}.website-link span{color:#f49a35}footer span{color:#5441d9}
+
+/* Device-independent line icons; never rendered as emoji. */
+.card-link-icon{display:block;width:18px;height:18px;flex-shrink:0}.contact-details b{color:#8192ac;font-weight:400}.website-link>span{display:flex;align-items:center;justify-content:center}.website-link .card-link-icon{width:19px;height:19px}.save-contact{gap:12px}
