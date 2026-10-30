@@ -1,0 +1,9 @@
+{
+  "name": "Tatenda Manyepa \u00b7 KAI-TEQ",
+  "short_name": "Tatenda \u00b7 KAI-TEQ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d1d39"
+}
